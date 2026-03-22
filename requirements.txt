@@ -1,0 +1,11 @@
+jupyter
+notebook
+ipykernel
+pandas
+numpy
+pyreadstat
+matplotlib
+seaborn
+folium
+scikit-learn
+requests
